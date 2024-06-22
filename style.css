@@ -38,7 +38,7 @@ header {
     text-align: center;
     border-radius: 100px;
 }
-a:hover {
+ul a:hover {
     background-color: #5c5c5c;
     color: #0084ff; 
     transform: scale(1.0);
